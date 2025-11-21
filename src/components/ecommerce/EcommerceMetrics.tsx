@@ -4,7 +4,9 @@ export default function EcommerceMetrics() {
       <div className="flex items-end justify-between">
         <div>
           <span className="text-sm text-gray-500 dark:text-gray-400">Average Daily Flow</span>
-          <h4 className="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">2</h4>
+          <h4 className="mt-2 font-bold text-gray-800 text-title-sm dark:text-white/90">
+            4 <span className="ml-4 text-sm text-gray-500 dark:text-gray-400">L/min</span>
+          </h4>
         </div>
       </div>
     </div>
